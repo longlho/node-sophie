@@ -1,0 +1,19 @@
+{
+  "author": "Long Ho <holevietlong@gmail.com> (http://www.azndezign.com)",
+  "name": "sophie",
+  "description": "Find Sophie puzzle using NodeJS",
+  "version": "1.0.0",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/longlho/node-sophie.git"
+  },
+  "main": "node app.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "engines": {
+    "node": "~0.6.0"
+  },
+  "dependencies": {},
+  "devDependencies": {}
+}
